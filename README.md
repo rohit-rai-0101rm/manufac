@@ -5,9 +5,9 @@ This application calculates the mean ,median and mode of the wine dataset.
 
 ## Screenshots 
 
-![Screenshot Flavanoid](./src/screenshots/flavanoidStats.png)
+![Screenshot Flavanoid](src/screenshots/flavanoidStats.png)
 
-![Screenshot Gama](./src/screenshots/gamaStats.png)
+![Screenshot Gama](src/screenshots/gamaStats.png)
 
 ## Getting Started
 
