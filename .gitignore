@@ -10,7 +10,6 @@
 
 # production
 /build
-/screenshots/
 
 # misc
 .DS_Store
